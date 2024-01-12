@@ -56,3 +56,17 @@
     height: 3px;
     background: #c7c7c7;
 }
+@media (max-width: 786px){
+    
+    .footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+
+    }
+    
+
+}
+    
